@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TMM</string>
+    <string name="nav_header_title">Aliyeva Jamila</string>
+    <string name="gmail">+998 91 615 72 74</string>
+
+    <string name="dev_name">Boymatov Mexrojiddin</string>
+    <string name="dev_gmail">boymatovmexrojiddin@gmail.com</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Sahifa</string>
+    <string name="menu_gallery">Mundarija</string>
+    <string name="menu_slideshow">Dastur haqida</string>
+</resources>
